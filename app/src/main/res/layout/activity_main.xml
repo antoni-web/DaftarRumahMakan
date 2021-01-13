@@ -9,7 +9,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#C30A0A"
+        android:background="#141085"
         android:gravity="center"
         android:orientation="vertical">
 
@@ -19,7 +19,6 @@
             android:textColor="@color/white"
             android:text="Daftar Rumah Makan"
             android:textAlignment="center"
-            android:background="#005DA1"
             android:textSize="21sp"
             android:textStyle="bold" />
 
